@@ -1,5 +1,13 @@
-body{ font-family: 'open Sans', sans-serif;
-background-color: green cyan}
-title{color:red;}
-h1{color:magenta}
-li{color:purple}
+body{ 
+  font-family: 'open Sans', sans-serif;
+  background:#2196f387;
+}
+title{
+  color:#1a237e;
+}
+h1{
+  color:#1a237e;
+}
+ul{
+  color:#143c4f;
+}
